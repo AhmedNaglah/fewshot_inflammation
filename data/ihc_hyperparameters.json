@@ -1,0 +1,100 @@
+[
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-20526/105694.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-20526/105694_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-20894/105691.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-20894/105691_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-23531/105697.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-23531/105697_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25338/105706.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25338/105706_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25356/105703.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25356/105703_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25492/105700.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25492/105700_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25588/105709.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_23SP-25588/105709_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_24SP-00460/105687.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_24SP-00460/105687_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_24SP-00694/105684.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/QP_24SP-00694/105684_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-12155/111799.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-12155/111799_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-13941/111171.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-13941/111171_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-14043/111168.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-14043/111168_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-18309/111174.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-18309/111174_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    },
+    {
+        "input": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-19912/111800.svs",
+        "output": "/orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-19912/111800_dsa_test.json",
+        "thre_area_min": 8000,
+        "moving_window": 6,
+        "closing_size": 25
+    }
+]

@@ -1,0 +1,17 @@
+STDOUT:
+>>>>>> segmentIhc: read svs file
+16
+>>>>>> segmentIhc: extract tissue mask
+(3536, 3112)
+(470257, 3)
+(470257,)
+(1502, 0, array([245, 249, 247], dtype=uint8), 254)
+>>>>>> segmentIhc: segment chromogen
+(1502, 0, array([245, 249, 247], dtype=uint8), 254, array([255], dtype=uint8))
+>>>>>> segmentIhc: post processing
+thre_area_min: 8000
+>>>>>> segmentIhc: saving to output file
+>>>>>> segmentIhc: DSA annotation file saved: /orange/pinaki.sarder/ahmed.naglah/inflammation_project/qp_projects/B02_QP_24SP-13941/111171_dsa_test.json
+
+STDERR:
+
